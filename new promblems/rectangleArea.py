@@ -1,0 +1,1 @@
+length=(input("enter the lenggf")
